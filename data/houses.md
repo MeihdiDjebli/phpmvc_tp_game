@@ -12,15 +12,15 @@ House Stark's sigil is a grey direwolf on a white background, over a green escut
 
 * Nickname : Ned Stark
 * Role : Lord
-Children : Rob Stark, Sansa Stark, Arya Stark...
-Wife : Catelyn Stark
+* Children : Rob Stark, Sansa Stark, Arya Stark...
+* Wife : Catelyn Stark
 
 #### Catelyn Stark
 
 * Nickname : Cat
 * Role : Lady
-Children : Sansa Stark, Arya Stark...
-Husband : Eddard Stark
+* Children : Sansa Stark, Arya Stark...
+* Husband : Eddard Stark
 
 #### Rob Stark
 
@@ -49,13 +49,13 @@ The Lannisters rule over the Westerlands. Their seat is Casterly Rock, a massive
 
 * Nickname : Kingslayer
 * Role : Lord
-Children : Joffrey Baratheon, Myrcella Baratheon, Tommen Baratheon
+* Children : Joffrey Baratheon, Myrcella Baratheon, Tommen Baratheon
 
 #### Cersei Lannister
 
 * Nickname : Queen
 * Role : Lady
-Children : Joffrey Baratheon, Myrcella Baratheon, Tommen Baratheon
+* Children : Joffrey Baratheon, Myrcella Baratheon, Tommen Baratheon
 
 #### Joffrey Baratheon
 
